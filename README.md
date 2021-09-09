@@ -28,8 +28,6 @@ The wallet lands on this architecture as an APP that is part of a citizens porta
 
 Under development, not fit for production use. Creates a DID and wallet for now on NEO Testnet.
 
-![DID Wallet](doc/img/did-wallet-claims.png "DID Wallet")
-
 # Setting up your environment
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.0.
